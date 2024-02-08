@@ -8,7 +8,7 @@ import Resume from "./components/Resume/Resume";
 import Footer from "./components/Footer";
 import Other from "./components/other/other";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
