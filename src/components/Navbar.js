@@ -102,7 +102,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://www.educative.io/profile/view/6734745937641472"
+                href="https://www.educative.io/profile/view/5530479846227968"
                 target="_blank"
                 rel="noreferrer"
               >
