@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import haqbaat from "../../Assets/Projects/haqbaat.jpeg";
+import haqbaat from "../../Assets/Projects/islo.jpg";
 import birthday from "../../Assets/Projects/birthday.png";
 import apnacomp from "../../Assets/Projects/apnacomp.png";
 import house from "../../Assets/Projects/house.jpg";
@@ -23,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={haqbaat}
               isBlog={false}
-              title="HaqBaat Bot"
+              title="Greenspace Segmentation across Islambad's F-7 sector"
               description="Haqbaat is a WhatsApp bot designed to empower and uplift Pakistani women by providing them an easy interface to access information regarding their rights in Pakistan. The bot is built to interact with users in Roman Urdu, making it convenient for women to communicate and obtain information easily. Built using Twilio API, OpenAI API, Flask , and Python."
               ghLink="https://github.com/saleha-muzammil/HaqBaat-bot"            />
           </Col>

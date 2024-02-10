@@ -24,44 +24,45 @@ export default function Other() {
          <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <h1 style={{ fontSize: "2.4em", paddingBottom: "20px" }}>
-            Extra<strong className="teal">Curricular</strong>
+            More to come...
+            {/* <strong className="teal">Curricular</strong> */}
           </h1>
           <ul style={{ listStyle: "none", padding: 0 }}>
             <li style={{ fontSize: "1.2em" }}>
               <strong>
-                <a
+                {/* <a
                   href="https://www.ted.com/tedx/events/52803"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="teal-link"
                 >
                   TEDxFASTLahore
-                </a>
+                </a> */}
               </strong>
-              , Organizer (2023)
+              {/* , Organizer (2023) */}
             </li>
             <li style={{ fontSize: "1.2em" }}>
-              CCS, FAST Lahore, General Secretary (2022-23)
+              {/* CCS, FAST Lahore, General Secretary (2022-23) */}
             </li>
           </ul>
         </Row>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              Art & <strong className="teal">Calligraphy</strong>
+              {/* Art & <strong className="teal">Calligraphy</strong> */}
             </h1>
             <p style={{fontSize: "1.2em"}}>
-                My art account:  
+                {/* My art account:   */}
                 <strong>
-                <a
-                  href="https://www.instagram.com/artbysaleha"
+                {/* <a
+                  href="https://www.instagram.com/drawliterallyme"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="teal-link"
-                > @artbysaleha
-                </a>
+                > @drawliterallyme
+                </a> */}
               </strong>
             </p>
-  <PhotoAlbum layout="rows" photos={photos} />
+  {/* <PhotoAlbum layout="rows" photos={photos} /> */}
   </Row>
   </Container>
   </Container> );
