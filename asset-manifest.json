@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.51bcd757.css",
-    "main.js": "/portfolio/static/js/main.b623db86.js",
+    "main.js": "/portfolio/static/js/main.08046f3f.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/islo.jpg": "/portfolio/static/media/islo.0e74898f2e8187ac81a7.jpg",
     "static/media/apnacomp.png": "/portfolio/static/media/apnacomp.1f6ab0bfa902111c71e8.png",
     "static/media/clown.png": "/portfolio/static/media/clown.bb3f6a0a822d2a149f1c.png",
     "static/media/im8.png": "/portfolio/static/media/im8.bf1028de6fc777bc6b79.png",
@@ -23,7 +24,6 @@
     "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
     "static/media/birthday.png": "/portfolio/static/media/birthday.2bac14466dc787720e43.png",
     "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/haqbaat.jpeg": "/portfolio/static/media/haqbaat.82516640650a9af37993.jpeg",
     "static/media/house.jpg": "/portfolio/static/media/house.6d5854c60760df68b00a.jpg",
     "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/meme.png": "/portfolio/static/media/meme.67b299a5c21aee034196.png",
@@ -36,11 +36,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.904bdb248927efc0070c.svg",
     "index.html": "/portfolio/index.html",
     "main.51bcd757.css.map": "/portfolio/static/css/main.51bcd757.css.map",
-    "main.b623db86.js.map": "/portfolio/static/js/main.b623db86.js.map",
+    "main.08046f3f.js.map": "/portfolio/static/js/main.08046f3f.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51bcd757.css",
-    "static/js/main.b623db86.js"
+    "static/js/main.08046f3f.js"
   ]
 }
