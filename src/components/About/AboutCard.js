@@ -29,7 +29,7 @@ function AboutCard() {
               LUMS School of Science and Engineering
             </a>
             . My research interests are centered around using Machine Learning
-            techniques on remote sensing data for biodiversity conservation and
+            with remote sensing data for biodiversity conservation and
             sustainable urban development. I am also passionate about making
             human-centered vision and language models for cross-lingual,
             unprejudiced, trustworthy, and interpretable interaction between
