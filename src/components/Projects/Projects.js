@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import haqbaat from "../../Assets/Projects/islo.jpg";
 import birthday from "../../Assets/Projects/birthday.png";
-import apnacomp from "../../Assets/Projects/apnacomp.png";
+import petro from "../../Assets/Projects/petro.png";
 import house from "../../Assets/Projects/house.jpg";
 import raftaar from "../../Assets/Projects/raftaar.png";
 import meme from "../../Assets/Projects/meme.png";
@@ -23,18 +23,19 @@ function Projects() {
             <ProjectCard
               imgPath={haqbaat}
               isBlog={false}
-              title="Greenspace Segmentation across Islambad's F-7 sector"
-              description="Haqbaat is a WhatsApp bot designed to empower and uplift Pakistani women by providing them an easy interface to access information regarding their rights in Pakistan. The bot is built to interact with users in Roman Urdu, making it convenient for women to communicate and obtain information easily. Built using Twilio API, OpenAI API, Flask , and Python."
-              ghLink="https://github.com/saleha-muzammil/HaqBaat-bot"            />
+              title="Sustainable Urban Development via Computer Vision"
+              description="I have fine-tuned ultralytics Yolov8 model (which is a deep CNN-based architecture) for instance segmentation of greenspaces across Islamabad using f-7 sector's satellite imagery to study the effects of urban deforestation and develop sustainable urban development strategies. I prepared my own dataset via earth engine which can be found on Roboflow (click on the button below for more details)."
+              ghLink="https://github.com/MohtashimButt/Islamabad-GreenSpaces"
+            />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={apnacomp}
+              imgPath={petro}
               isBlog={false}
-              title="Apna Computer"
-              description="Apna Computer is a web application that helps users build custom PC configurations by selecting compatible parts from a vast inventory. It is built using the MERN stack (MongoDB, Express, React, Node.js) and features a beautiful user interface designed for a seamless user experience. "
-              ghLink="https://github.com/saleha-muzammil/Apna-Computer"
+              title="Digital Heritage Conservation"
+              description="To preserve the ancient petroglyphs digitally, I developed a deep learning model for semantic segmentation of carvings on pre-historic rocks. The model takes a large rock image as input and segments all the carving out of it, saving the binary masks along with the cropped images of each carving."
+              ghLink="https://github.com/MohtashimButt/Petroglyphs"
             />
           </Col>
 
