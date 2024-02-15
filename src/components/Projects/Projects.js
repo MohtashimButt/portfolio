@@ -39,7 +39,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={house}
               isBlog={false}
@@ -77,7 +77,7 @@ function Projects() {
               description="(Upcoming)"
               ghLink="https://github.com/saleha-muzammil/Raftaar"
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
