@@ -25,7 +25,7 @@ function Home() {
                 </div>
                 <div className="paragraph-container">
                   <p>
-                  I am a final-year undergraduate student majoring in Computer Science at LUMS. My research interests span <b>Computer Vision</b> with Remote Sensing, <b>Natural Language Processing</b>, and Technologies for Development.
+                  I am a final-year undergraduate student majoring in Computer Science at LUMS. My research interests span <b>Computer Vision</b> with Remote Sensing, <b>Natural Language Processing</b>, and Technologies for Development. My expertise also lies in developing and optimizing high-quality, reliable machine learning models for applications in data analytics, future trend predictions, and visualization. Additionally, I am skilled in creating deep-learning models tailored for segmentation, detection, and classification tasks. 
                   </p>
                 </div>
               <Col md={12}>
