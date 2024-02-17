@@ -16,7 +16,7 @@ function Home() {
             <Col md={12} className="home-header">
               <div className="content-container">
                 <h1 className="heading">
-                 Hi, I'm <strong className="main-name">Mohtashim Butt</strong>.
+                 Hi, I'm <strong className="main-name">Mohtashim Butt</strong>
                 </h1>
                 <div className="type-container">
                   {/* <Type /> */}
