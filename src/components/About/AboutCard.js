@@ -35,7 +35,9 @@ function AboutCard() {
             unprejudiced, trustworthy, and interpretable interaction between
             humans and machines. My long-term goal is to architect machine
             learning models that process vision, language, and speech data for a
-            healthy human-robot collboration.
+            healthy human-robot collboration and make machine learning models
+            more probabilistic and generative, integrating principles of
+            computer vision.
             <br />
             <br />
             Moreover, I am also interested in <b>product designing</b> and
@@ -80,8 +82,20 @@ function AboutCard() {
               </strong>{" "}
               Architecturing a deep neural network for semantic segmentation of
               ancient petroglyphs' carving along with the development of a
-              vision tranformer model for the prompt explanation.
+              vision tranformer model for the prompt explanation.{"\n\n"}
             </li>
+            <p style={{paddingTop: "20px" }}>
+            For more detials, visit my {" "}
+            <a
+              href="https://mohtashimbutt.github.io/portfolio/#/project"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="teal-link"
+            >
+               Projects 
+            </a>
+            {" "}section.
+            </p>
           </ul>
         </blockquote>
       </Card.Body>
