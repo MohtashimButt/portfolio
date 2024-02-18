@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import haqbaat from "../../Assets/Projects/islo.jpg"; //Islamabad project
-import birthday from "../../Assets/Projects/birthday.png";
+import birthday from "../../Assets/Projects/birthday.png";  // Taawun
 import petro from "../../Assets/Projects/petro.png";  //Petroglyohs project
 import house from "../../Assets/Projects/house.png";  //SBERT (ML) project
 import raftaar from "../../Assets/Projects/raftaar.png";
@@ -46,6 +46,16 @@ function Projects() {
               title="Fine-Tuned SBERT for Text-Similarity and Sentimal Analysis"
               description="I fine-tuned Sentence Transformer (SBERT) architecture for encoding textual prompts. The dataset employed for the text similarity detection task comprised pairs of questions from Quora. The approach involved generating raw embeddings through SBERT for each prompt pair, followed by computing cosine similarity between them. Moreover, I adapted the architecture of distiluse-base-multilingual-cased-v1, incorporating a dropout layer preceding the fully-connected dense layer. The model underwent training for 600 epochs, with a learning rate of 0.002, and was evaluated based on cross-entropy loss."
               ghLink="https://github.com/MohtashimButt/FineTunedSBERT"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={birthday}
+              isBlog={false}
+              title="Emergency Relief Application"
+              description="In collaboration with my team, we designed and implemented a web portal tailored to the needs of NGOs, donors, and donation collectors streamlining their collaboration and support mechanisms. NGOs gained the ability to collaborate, coordinate, and access essential resources, while donors found a user-friendly platform to contribute and track their assistance. The App was made on MERN stack with the substitution on Mongodb with Firebase. The goal of the project was to bridge the gap between humanitarian organizations and donors leading towards an effecient emergency relief efforts."
+              ghLink="https://github.com/shahmeerify/Taawun"
             />
           </Col>
 
