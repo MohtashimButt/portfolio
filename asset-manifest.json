@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.51bcd757.css",
-    "main.js": "/portfolio/static/js/main.7100328d.js",
+    "main.js": "/portfolio/static/js/main.937f1b21.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/petro.png": "/portfolio/static/media/petro.d24759922aded8176881.png",
     "static/media/clown.png": "/portfolio/static/media/clown.bb3f6a0a822d2a149f1c.png",
@@ -27,7 +27,7 @@
     "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
     "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
     "static/media/meme.png": "/portfolio/static/media/meme.67b299a5c21aee034196.png",
-    "static/media/Mohtashim_Resume_ML.pdf": "/portfolio/static/media/Mohtashim_Resume_ML.145f6f78fee62e02c962.pdf",
+    "static/media/Mohtashim_Resume_ML.pdf": "/portfolio/static/media/Mohtashim_Resume_ML.e8b0472e239ce2589afe.pdf",
     "static/media/raftaar.png": "/portfolio/static/media/raftaar.e7f06751c75704c42ca0.png",
     "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.1ae2af3965320cff6a14.jpg",
@@ -36,11 +36,11 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.904bdb248927efc0070c.svg",
     "index.html": "/portfolio/index.html",
     "main.51bcd757.css.map": "/portfolio/static/css/main.51bcd757.css.map",
-    "main.7100328d.js.map": "/portfolio/static/js/main.7100328d.js.map",
+    "main.937f1b21.js.map": "/portfolio/static/js/main.937f1b21.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51bcd757.css",
-    "static/js/main.7100328d.js"
+    "static/js/main.937f1b21.js"
   ]
 }
