@@ -36,8 +36,7 @@ function AboutCard() {
             humans and machines. My long-term goal is to architect machine
             learning models that process vision, language, and speech data for a
             healthy human-robot collboration and make machine learning models
-            more probabilistic and generative, integrating principles of
-            computer vision.
+            more probabilistic and generative.
             <br />
             <br />
             Moreover, I am also interested in <b>product designing</b> and
@@ -72,7 +71,7 @@ function AboutCard() {
               <FaCaretRight className="bullet-icon" />{" "}
               <strong className="teal"> Bachelor's Thesis: </strong> Developing
               a geographically transferable DL model for urban greenspace
-              segmentation via input satellite imagery.
+              segmentation in input satellite imagery.
             </li>
             <li className="about-activity">
               <FaCaretRight className="bullet-icon" />
