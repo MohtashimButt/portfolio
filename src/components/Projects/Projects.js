@@ -25,7 +25,7 @@ function Projects() {
               isBlog={false}
               title="Sustainable Urban Development via Computer Vision"
               description="I have fine-tuned ultralytics Yolov8 model (which is a deep CNN-based architecture) for instance segmentation of greenspaces across (Treecover, GrassLand, ShrubLand, and CropLand) Islamabad using f-7 sector's satellite imagery to study the effects of urban deforestation and develop sustainable urban development strategies. I prepared my own dataset via earth engine and merging the greenspace polygons from GIS platforms using Python scripting. For post-processing, the dataset images were also overlayed NDVI masks. I made four different models which were tested separately and compared at the end based upon the pixel-wise errors, DICE Losses, and IoU Scores."
-              ghLink="https://github.com/MohtashimButt/Islamabad-GreenSpaces"
+              ghLink="https://github.com/MohtashimButt/yolov8-for-satellite-imagery"
             />
           </Col>
 
